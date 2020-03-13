@@ -1,5 +1,5 @@
-# KbNMF
-Kurtosis-based NMF for Hyperspectral Unmixing
+# KbSNMF
+Kurtosis-based Smooth NMF for Hyperspectral Unmixing
 
 This package contains the MATLAB codes for the algorithm presented in the paper:
 
